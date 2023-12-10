@@ -14,11 +14,14 @@ streamlit run dashboard.py
 ```
 
 ## Deploy dashboard
-```
 [Bike Sharing Dashboard](URL)
-or
+<br><br>
+
+## GitHub Resources 
 [Github Repository](https://github.com/isnanramalia/BikeSharing-DataAnalysis)
-```
+or
+[Github Repository 2](https://github.com/isnanramalia/dicoding-latihanDataMining/tree/main/proyek_akhir)
+<br><br>
 
 ## Screen capture dashboard
 ![screenCapture](image.png)
