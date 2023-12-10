@@ -15,7 +15,10 @@ streamlit run dashboard.py
 
 ## Deploy dashboard
 ```
-streamlit run dashboard.py
+[Bike Sharing Dashboard](URL)
+or
+[Github Repository](https://github.com/isnanramalia/BikeSharing-DataAnalysis)
 ```
 
 ## Screen capture dashboard
+![screenCapture](image.png)
