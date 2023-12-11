@@ -14,7 +14,7 @@ streamlit run dashboard.py
 ```
 
 ## Deploy dashboard
-[Bike Sharing Dashboard](URL)
+[Bike Sharing Dashboard](https://bike-data.streamlit.app/)
 <br><br>
 
 ## GitHub Resources 
